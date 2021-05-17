@@ -1,0 +1,21 @@
+- async web framework.
+
+Create new project steps:
+==========================
+
+-> open inteliij & select create new project
+-> install Ktor plugin into intelliij
+-> select gradle/maven , and go with default settings
+-> Project created
+
+QuickIntro:
+===========
+
+-> It will have module function called from Application class.
+-> Ktor application class is a program listening to one or more ports and containing module with installed features.
+-> Application composed of different modules.
+-> Module contain the application logic.
+-> Features are installed to the module to provide additional functionality such as logging authentication.
+-> Routes are one of the feature to simplify request handling.
+
+
